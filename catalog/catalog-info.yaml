@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: tanzu-spring-pet
-  description: TSpring Pet Clinic
+  description: Clone Of Spring Pet Clinic
   tags:
     - app-accelerator
     - java
@@ -10,7 +10,7 @@ metadata:
     - web
     - tanzu
   annotations:
-    'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=tanzu-spring-pet'
+    'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=km-tanzu-spring-pet'
 spec:
   type: service
   lifecycle: experimental
