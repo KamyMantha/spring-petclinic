@@ -1,6 +1,6 @@
 accelerator:
   displayName: Simple Accelerator
-  description: Contains just a README
+  description: Contains just a README and ..
   iconUrl: https://images.freecreatives.com/wp-content/uploads/2015/05/smiley-559124_640.jpg
   tags:
     - simple
